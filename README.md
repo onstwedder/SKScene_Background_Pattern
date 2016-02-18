@@ -6,7 +6,7 @@ Based on this tutorial:
 http://xcodenoobies.blogspot.nl/2015/08/skspritekit-how-to-fill-skscene.html
 by emir Bytes https://plus.google.com/102798309408233437491/posts
 
-I've created a swift function #addBackgroundPattern()#
+I've created a swift function *addBackgroundPattern()*
 
 #Background pattern credit#
 I used paisley.png image from http://subtlepatterns.com as a great example of a tileable image.

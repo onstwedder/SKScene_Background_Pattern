@@ -33,11 +33,6 @@ class GameViewController: UIViewController {
 
     func addBackgroundPattern()
     {
-        func randomInt(min: Int, max:Int) -> Int {
-            return min + Int(arc4random_uniform(UInt32(max - min + 1)))
-        }
-        
-        
         var totW : CGFloat = 0
         var totH : CGFloat = 0
         
